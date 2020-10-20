@@ -2822,7 +2822,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1aa {
-			background-color: #3F27AC    ;
+			background-color: #5F0F43    ;
 			color: #c8ece9;
 		}
 
@@ -3356,7 +3356,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #D93F87;
+		background: #e98074;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
