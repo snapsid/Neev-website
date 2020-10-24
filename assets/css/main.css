@@ -2137,7 +2137,7 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		padding-left: 1.25em;
 	}
 
@@ -2787,6 +2787,8 @@ input, select, textarea {
 
 /* Wrapper */
 
+
+
 	.wrapper {
 		padding: 6em 0 4em 0 ;
 	}
@@ -2819,6 +2821,12 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-color: #8a1258    ;
 			color: #c8ece9;
+		}
+
+		.wrapper.style1s {
+			background-color: #505393    ;
+			color: #c8ece9;
+
 		}
 
 		.wrapper.style1aa {
@@ -3896,7 +3904,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #16072A;
 		text-align: center;
 	}
 
